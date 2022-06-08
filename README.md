@@ -33,8 +33,13 @@ With the help of the route that was opened and the features we developed, the ap
 The application was developed in the **Unity** work environment with the **AR Foundation** and **ARCore XR Plug-in** libraries.
 
 **Exampels**:
+Surface identification and modeling: 
+
 
 ![](https://github.com/EladVaknin/Final_Project_autonomous_car/blob/main/gifs/BNTS3X_f4f2deded75a5dbec8ac68f913ecfd8e_00-00-00_00-00-07_2.gif)
+
+Detection of potential passages (eg door):
+
 
 ![](https://github.com/EladVaknin/Final_Project_autonomous_car/blob/main/gifs/BNTS3X_b9e2d58bcf2b1f9acab5c14d0cf89ee8_00-00-00_00-00-06_2.gif)
 
