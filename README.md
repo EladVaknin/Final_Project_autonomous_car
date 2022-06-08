@@ -48,7 +48,7 @@ The application was developed in the **Unity** work environment with the **AR Fo
 **How to install ?! :**
 1. Make sure your Android device is listed https://developers.google.com/ar/devices?hl=en
 2. Make sure your device supports OpenGLES3 and Android 8.0 and above.
-3. Download the APK file - קישור לAPK
+3. Download the APK file.
 4. Allow access to the camera when using the application.
 
 
