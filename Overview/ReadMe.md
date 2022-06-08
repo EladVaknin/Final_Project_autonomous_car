@@ -47,7 +47,7 @@ RTAB-Map is a RGB-D, Stereo and Lidar Graph-Based SLAM approach based on an incr
 
 
 
-### _ARCore ( Augmented Reality Core) 
+### ARCore ( Augmented Reality Core) 
 
 
 ARCore uses three key capabilities to integrate virtual content with the real world as seen through your phone's camera:
