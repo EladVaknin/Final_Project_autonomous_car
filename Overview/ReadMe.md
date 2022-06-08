@@ -47,16 +47,16 @@ RTAB-Map is a RGB-D, Stereo and Lidar Graph-Based SLAM approach based on an incr
 
 
 
-### _ARCore ( Augmented Reality Core) –_
+### _ARCore ( Augmented Reality Core) 
 
 
 ARCore uses three key capabilities to integrate virtual content with the real world as seen through your phone's camera:
 
-•Motion Tracking: When you use an AR-based application, you are asked first to open your camera and sometimes also asked to move your phone. This is done to capture your surrounding and detect distinct features from it also called feature points. ARCore uses SLAM (Simultaneous Localization And Mapping) to understand the position of your phone relative to your surrounding. Once the feature points are detected, SLAM uses them to compute the change in location. To compute the position and orientation of the phone relative to its surrounding, over time, the visual information detected by the camera is combined with the measurements of the IMU (Inertial Measurement Unit: an electronic device that measures and reports a body’s specific force, angular rate, and sometimes the orientation of the body, using a combination of accelerometers, gyroscopes, and sometimes magnetometers).
+• Motion Tracking: When you use an AR-based application, you are asked first to open your camera and sometimes also asked to move your phone. This is done to capture your surrounding and detect distinct features from it also called feature points. ARCore uses SLAM (Simultaneous Localization And Mapping) to understand the position of your phone relative to your surrounding. Once the feature points are detected, SLAM uses them to compute the change in location. To compute the position and orientation of the phone relative to its surrounding, over time, the visual information detected by the camera is combined with the measurements of the IMU (Inertial Measurement Unit: an electronic device that measures and reports a body’s specific force, angular rate, and sometimes the orientation of the body, using a combination of accelerometers, gyroscopes, and sometimes magnetometers).
 
-•Environmental Understanding: As we already discussed the feature points, ARCore looks for clusters of these feature points that lie on the same horizontal or vertical surfaces like a table or a door and makes this information available to your app. Later, this information is used to place 3D objects on flat surfaces.
+• Environmental Understanding: As we already discussed the feature points, ARCore looks for clusters of these feature points that lie on the same horizontal or vertical surfaces like a table or a door and makes this information available to your app. Later, this information is used to place 3D objects on flat surfaces.
 
-•Light Estimation: To make virtual content more realistic, it is  always a good choice to consider light as one of the significant areas to work on. As the light gets reflected in different directions after falling onto an object making the environment pleasing to the eyes of a viewer, the concept of light estimation tries to do the same with the 3D objects. After capturing images of the surrounding, ARCore provides information about the average intensity and color correction of the images which lets a developer light a virtual object under the same conditions as the surrounding environment.
+• Light Estimation: To make virtual content more realistic, it is  always a good choice to consider light as one of the significant areas to work on. As the light gets reflected in different directions after falling onto an object making the environment pleasing to the eyes of a viewer, the concept of light estimation tries to do the same with the 3D objects. After capturing images of the surrounding, ARCore provides information about the average intensity and color correction of the images which lets a developer light a virtual object under the same conditions as the surrounding environment.
 
 
 
