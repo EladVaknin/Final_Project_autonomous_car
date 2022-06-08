@@ -75,14 +75,17 @@ Moreover, our app based on  RTAB-Map  could not provide good trajectory or dista
 ### Comparasion
 As we quoted in our article we can see that RTAB-Map reacts much better to darkness than ARCore which cannot detect darkness without light
 Here we can see that the RealSense camera L515 and ARCore in the dark:
+
 ![](https://github.com/EladVaknin/Final_Project_autonomous_car/blob/main/gifs/BNTS3X_58487e4932a57f4cb52185bb2d733087_00-00-00_00-00-20_2.gif)
 ![](https://github.com/EladVaknin/Final_Project_autonomous_car/blob/main/gifs/BNTS3X_75488d4462c590af77d3e685b3ae42ac_00-00-08_00-00-23_2.gif)
 
 Here we can see ARCore and RealSense camera in daylight and indoor:
+
 ![](https://github.com/EladVaknin/Final_Project_autonomous_car/blob/main/gifs/BNTS3X_dc083c2e42fd6314ad6e29991d9a72dc_00-00-01_00-00-19_2.gif)
 ![](https://github.com/EladVaknin/Final_Project_autonomous_car/blob/main/gifs/BNTS3X_3852cacf78d489715d97301140335c4e_00-00-11_00-00-30_3.gif)
 
 Here we can see ARCore and RealSense camera in outdoor and daylight:
+
 ![](https://github.com/EladVaknin/Final_Project_autonomous_car/blob/main/gifs/BNTS3X_1677bb9415fab1040fed43ed453f5f7f_00-00-00_00-00-12_2.gif)
 ![](https://github.com/EladVaknin/Final_Project_autonomous_car/blob/main/gifs/BNTS3X_dad9560a1e0913570a14d2216f0f4584_00-00-00_00-00-22_2.gif)
 
