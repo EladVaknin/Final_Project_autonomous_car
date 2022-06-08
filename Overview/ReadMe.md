@@ -71,3 +71,7 @@ We have tested RTAB-MAP and our app based on ARcore in several situation.
 The RTAB_Map based on Slam alghorithm used with real-sense camera is able to map in the dark while our app based on ARcore doesn't, however the opposite is not true – RealSense camera has difficulties mapping in daylight while ARcore has no problem with that.
 
 Moreover, our app based on  RTAB-Map  could not provide good trajectory or distance estimates while ARcore is able to give the exact distance and trajectory. Few tests show that RTABMAP used with real-sense camera is better on certain conditions. We have validated the whole developments under camera & phones platform within comparasion  in indoor and outdoor environment.
+
+**Comparasion**
+![](https://github.com/EladVaknin/Final_Project_autonomous_car/blob/main/gifs/BNTS3X_b9e2d58bcf2b1f9acab5c14d0cf89ee8_00-00-00_00-00-06_2.gif)
+
