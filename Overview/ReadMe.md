@@ -47,7 +47,7 @@ RTAB-Map is a RGB-D, Stereo and Lidar Graph-Based SLAM approach based on an incr
 
 
 
-**_ARCore ( Augmented Reality Core) –_**
+### _ARCore ( Augmented Reality Core) –_
 
 
 ARCore uses three key capabilities to integrate virtual content with the real world as seen through your phone's camera:
@@ -60,7 +60,7 @@ ARCore uses three key capabilities to integrate virtual content with the real wo
 
 
 
-**Conclusion**
+### Conclusion
 
 In this paper, we have presented a an app based on ARcore technologies and RTAB-Map mapping -based
 
@@ -72,6 +72,6 @@ The RTAB_Map based on Slam alghorithm used with real-sense camera is able to map
 
 Moreover, our app based on  RTAB-Map  could not provide good trajectory or distance estimates while ARcore is able to give the exact distance and trajectory. Few tests show that RTABMAP used with real-sense camera is better on certain conditions. We have validated the whole developments under camera & phones platform within comparasion  in indoor and outdoor environment.
 
-**Comparasion**
+### Comparasion
 ![](https://github.com/EladVaknin/Final_Project_autonomous_car/blob/main/gifs/BNTS3X_b9e2d58bcf2b1f9acab5c14d0cf89ee8_00-00-00_00-00-06_2.gif)
 
