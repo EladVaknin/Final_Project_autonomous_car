@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: ReferenceImageLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 4668774364453854189
+  m_GuidHigh: 3750091616595291540
+  m_DataStore:
+    m_Storage: []
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 4784159546243428129
+      m_GuidHigh: 3037362034044666764
+    m_SerializedTextureGuid:
+      m_GuidLow: 16556373169967379413
+      m_GuidHigh: 17869955357514857611
+    m_Size: {x: 1.5, y: 2}
+    m_SpecifySize: 1
+    m_Name: door
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5434368274352049503
+      m_GuidHigh: 168701741640279994
+    m_SerializedTextureGuid:
+      m_GuidLow: 4311351922530221612
+      m_GuidHigh: 14638083165700102395
+    m_Size: {x: 0.35490197, y: 0.4}
+    m_SpecifySize: 1
+    m_Name: Maccabo
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4900235775225249578
+      m_GuidHigh: 7665785651400419742
+    m_SerializedTextureGuid:
+      m_GuidLow: 13642622649307358546
+      m_GuidHigh: 9493254560099688377
+    m_Size: {x: 1.5, y: 2}
+    m_SpecifySize: 1
+    m_Name: door2
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5512691731280667703
+      m_GuidHigh: 2179728910561089409
+    m_SerializedTextureGuid:
+      m_GuidLow: 12336698709605193873
+      m_GuidHigh: 14158772929598518650
+    m_Size: {x: 1.5, y: 2}
+    m_SpecifySize: 1
+    m_Name: ' door3'
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5728831214315247672
+      m_GuidHigh: 3442696257795009177
+    m_SerializedTextureGuid:
+      m_GuidLow: 7319723067575104991
+      m_GuidHigh: 7021820487938235066
+    m_Size: {x: 1.5, y: 2}
+    m_SpecifySize: 1
+    m_Name: door4
+    m_Texture: {fileID: 0}
