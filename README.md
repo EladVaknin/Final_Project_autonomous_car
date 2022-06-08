@@ -1,4 +1,5 @@
-![image](https://user-images.githubusercontent.com/74238558/172609049-18e0cad1-ecb0-47b7-a600-b1a742173c8b.png)
+![image](https://user-images.githubusercontent.com/74238558/172609265-17383f13-5d36-464a-83c1-19dae344fa73.png)
+
 
 # Autonomous Car - Final Project
 Final Project - Ariel University Department of Computer Science 2022.
