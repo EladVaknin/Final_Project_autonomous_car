@@ -62,15 +62,13 @@ ARCore uses three key capabilities to integrate virtual content with the real wo
 
 ### Conclusion
 
-In this paper, we have presented a an app based on ARcore technologies and RTAB-Map mapping -based
+In this paper, we have presented a an app based on ARcore technologies and RTAB-Map mapping -based on SLAM algorithm, and within both of indoor and outdoor environment, different observations were made.
 
-on SLAM algorithm, and within both of indoor and outdoor environment, different observations were made.
+We have tested our RealSense camera and our app based on ARcore in several situation.
 
-We have tested RTAB-MAP and our app based on ARcore in several situation.
+The RealSense camera is able to map in the dark while our app based on ARcore doesn't, however the opposite is not true – RealSense camera has difficulties mapping in daylight while ARcore has no problem with that.
 
-The RTAB_Map based on Slam alghorithm used with real-sense camera is able to map in the dark while our app based on ARcore doesn't, however the opposite is not true – RealSense camera has difficulties mapping in daylight while ARcore has no problem with that.
-
-Moreover, our app based on  RTAB-Map  could not provide good trajectory or distance estimates while ARcore is able to give the exact distance and trajectory. Few tests show that RTABMAP used with real-sense camera is better on certain conditions. We have validated the whole developments under camera & phones platform within comparasion  in indoor and outdoor environment.
+Moreover, our app based on ARcore could not provide good trajectory or distance estimates while ARcore is able to give the exact distance and trajectory. Few tests show that RTABMAP used with real-sense camera is better on certain conditions. We have validated the whole developments under camera & phones platform within comparasion  in indoor and outdoor environment.
 
 ### Comparasion
 As we quoted in our article we can see that RTAB-Map reacts much better to darkness than ARCore which cannot detect darkness without light
