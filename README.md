@@ -25,7 +25,7 @@ The same, advantages and disadvantages of each of the platforms,
 Knowledge of the hardware required for proper use of platforms
 And classifying the use of platforms as needed.
 
-**For the full review:** https://github.com/EladVaknin/Final_Project_autonomous_car/tree/main/Overview
+**To the full review:** https://github.com/EladVaknin/Final_Project_autonomous_car/tree/main/Overview
 
 
 ## Part 2 - Augmented Reality APP :
