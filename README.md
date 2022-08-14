@@ -41,12 +41,16 @@ The application was developed in the **Unity** work environment with the **AR Fo
 Surface identification and modeling: 
 
 
-![](https://github.com/EladVaknin/Final_Project_autonomous_car/blob/main/gifs/BNTS3X_f4f2deded75a5dbec8ac68f913ecfd8e_00-00-00_00-00-07_2.gif)
+![](https://github.com/EladVaknin/Final_Project_autonomous_car/blob/main/gifs/sarface.gif)
 
 Detection of potential passages (eg door):
 
 
-![](https://github.com/EladVaknin/Final_Project_autonomous_car/blob/main/gifs/BNTS3X_b9e2d58bcf2b1f9acab5c14d0cf89ee8_00-00-00_00-00-06_2.gif)
+![](https://github.com/EladVaknin/Final_Project_autonomous_car/blob/main/gifs/miklat.gif)
+
+
+![](https://github.com/EladVaknin/Final_Project_autonomous_car/blob/main/gifs/labarydoor.gif)
+
 
 
 
@@ -68,5 +72,5 @@ Detection of potential passages (eg door):
 
 ## Participants : 
 - Afik Peretz
-- Avigael Abitbol
 - Elad Vaknin
+- Avigael Abitbol
