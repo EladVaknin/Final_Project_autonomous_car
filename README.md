@@ -67,6 +67,6 @@ Detection of potential passages (eg door):
 
 
 ## Participants : 
-- Avigael Abitbol
 - Afik Peretz
+- Avigael Abitbol
 - Elad Vaknin
