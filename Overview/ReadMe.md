@@ -93,6 +93,12 @@ Work only on android system - A significant advantage that RTAB-map has over ARc
 
 Based on SLAM - Both technologies are based on the SLAM (Simultaneous localization and mapping) algorithm and therefore both are equal in this regard.
 
+Open source - Both technologies are open source and therefore equal in this regard.
+
+Close loop - RTAB-map works with the close loop method while ARcore does not, the method helps to make the data obtained more accurate but requires specific angles and shooting range and therefore must be taken into account according to the purpose of the project.
+
+Sensitivity to displacement - In RTAB-map it is necessary to move very, very slowly to get good results of the space scan, while in ARcore you can move in a natural way and the technology knows how to deal with this in an optimal way.
+
 
 **Experiments :**
 
