@@ -76,7 +76,7 @@ Moreover, our app based on ARcore could not provide good trajectory or distance 
 
 **Research result table :**
 
-![WhatsApp Image 2022-09-08 at 11 52 43](https://user-images.githubusercontent.com/74238558/189079499-17f428f9-fd8e-489e-855b-34e298bed4da.jpeg)
+![WhatsApp Image 2022-09-08 at 13 05 44](https://user-images.githubusercontent.com/74238558/189095448-06b5a71e-3863-4f46-8d33-8644e08ece2a.jpeg)
 
 **Description** :
 
