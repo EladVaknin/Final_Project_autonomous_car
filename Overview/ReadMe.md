@@ -76,11 +76,12 @@ The RealSense camera is able to map in the dark while our app based on ARcore do
 Moreover, our app based on ARcore could not provide good trajectory or distance estimates while ARcore is able to give the exact distance and trajectory. Few tests show that RTABMAP used with real-sense camera is better on certain conditions. We have validated the whole developments under camera & phones platform within comparasion in indoor and outdoor environment.
 
 Research result table :
+
 ![WhatsApp Image 2022-09-08 at 11 52 43](https://user-images.githubusercontent.com/74238558/189079499-17f428f9-fd8e-489e-855b-34e298bed4da.jpeg)
 
-Hardware needed - 
+Hardware needed - RTAB-map requires dedicated hardware equipment (Intel RealSense for example), while when working with ARcore you can use basic hardware that everyone has (smartphone for example)
 
-Dealing with daylight - 
+Dealing with daylight - ARcore knows how to work with daylight in an optimal way, while RTAB-map turns black in daylight and does not know how to deal with it 
 
 Heat map - 
 
