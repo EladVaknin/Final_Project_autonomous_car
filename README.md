@@ -14,18 +14,21 @@ For this to happen - the system needs to be sensitive and accurate and know how 
 
 
 ## Part 1 - Overview : 
+The following research is written for promotional purposes
+and the development of broader research in the field of autonomous vehicles.
+In the review we will compare **ARCore** - a platform
+For building augmented reality experiences by Google map and **RTAB map** - SLAM approach based on RGB-D, stereo and Lidar Graph
+Close detector.
+Goal - getting to know the platforms and the technology behind them.
+Conducting various experiments - in the light and in the dark, inside and outside.
+Forming conclusions - advantages and disadvantages of each of the platforms.
+Using the appropriate and correct platform for part 2 of the project.
 
-The following review was written for the purpose of promotion
-And development of research in the field of autonomous vehicles,
-In the review, we will compare **ARCore** - a platform
-For building augmented reality experiences by Google and **RTAB map** - RGB-D based SLAM approach, stereo and Lidar Graph
-Closing detector.
-The goal - familiarity with the platforms and the technology behind it
-The same, advantages and disadvantages of each of the platforms,
-Knowledge of the hardware required for proper use of platforms
-And classifying the use of platforms as needed.
+**For the full review -** https://github.com/EladVaknin/Final_Project_autonomous_car/tree/main/Overview
 
-**To the full review:** https://github.com/EladVaknin/Final_Project_autonomous_car/tree/main/Overview
+
+
+
 
 
 ## Part 2 - Augmented Reality APP :
@@ -62,11 +65,11 @@ Detection of potential passages (eg door):
 **How to install ?! :**
 1. Make sure your Android device is listed https://developers.google.com/ar/devices?hl=en
 2. Make sure your device supports OpenGLES3 and Android 8.0 and above.
-3. Download the APK file from Builds folder.
+3. Download the APK file from Builds folder - https://github.com/EladVaknin/Final_Project_autonomous_car/tree/main/Builds.
 4. Allow access to the camera when using the application.
 
 
-## Technological schema:
+## Architecture schema:
 ![image](https://user-images.githubusercontent.com/74238558/172565370-33c727ce-bc73-41a3-8397-90f58447a97f.png)
 
 
