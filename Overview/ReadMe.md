@@ -1,5 +1,3 @@
-![WhatsApp Image 2022-09-08 at 12 50 18](https://user-images.githubusercontent.com/74238558/189092253-fbb3799d-92dd-4ba3-9c0f-ed527834d1cb.jpeg)
-
 # [](https://github.com/EladVaknin/Final_Project_autonomous_car/tree/main/Overview#overview---final-project)Overview - Final Project
 
 ### [](https://github.com/EladVaknin/Final_Project_autonomous_car/tree/main/Overview#introduction-)Introduction :
@@ -48,7 +46,7 @@ ARCore uses three key capabilities to integrate virtual content with the real wo
 
 ### [](https://github.com/EladVaknin/Final_Project_autonomous_car/tree/main/Overview#conclusion)
 
-
+---
 ### [](https://github.com/EladVaknin/Final_Project_autonomous_car/tree/main/Overview#comparasion)Comparasion
 
 As we quoted in our article we can see that RTAB-Map reacts much better to darkness than ARCore which cannot detect darkness without light Here we can see that the RealSense camera L515 and ARCore in the **dark**:
@@ -64,8 +62,8 @@ Here we can see ARCore and RealSense camera in **outdoor and daylight**:
 [![](https://github.com/EladVaknin/Final_Project_autonomous_car/raw/main/gifs/BNTS3X_1677bb9415fab1040fed43ed453f5f7f_00-00-00_00-00-12_2.gif)](https://github.com/EladVaknin/Final_Project_autonomous_car/blob/main/gifs/BNTS3X_1677bb9415fab1040fed43ed453f5f7f_00-00-00_00-00-12_2.gif)  [![](https://github.com/EladVaknin/Final_Project_autonomous_car/raw/main/gifs/BNTS3X_dad9560a1e0913570a14d2216f0f4584_00-00-00_00-00-22_2.gif)](https://github.com/EladVaknin/Final_Project_autonomous_car/blob/main/gifs/BNTS3X_dad9560a1e0913570a14d2216f0f4584_00-00-00_00-00-22_2.gif)
 
 
-
-**Conclusion**
+----
+### **Conclusion** :
 
 In this paper, we have presented a an app based on ARcore technologies and RTAB-Map mapping -based on SLAM algorithm, and within both of indoor and outdoor environment, different observations were made.
 
@@ -75,32 +73,32 @@ The RealSense camera is able to map in the dark while our app based on ARcore do
 
 Moreover, our app based on ARcore could not provide good trajectory or distance estimates while ARcore is able to give the exact distance and trajectory. Few tests show that RTABMAP used with real-sense camera is better on certain conditions. We have validated the whole developments under camera & phones platform within comparasion in indoor and outdoor environment.
 
-Research result table :
+**Research result table :**
 
 ![WhatsApp Image 2022-09-08 at 11 52 43](https://user-images.githubusercontent.com/74238558/189079499-17f428f9-fd8e-489e-855b-34e298bed4da.jpeg)
 
-Description :
+**Description** :
 
-Hardware needed - RTAB-map requires dedicated hardware equipment (Intel RealSense for example), while when working with ARcore you can use basic hardware that everyone has (smartphone for example)
+- **Hardware needed** - RTAB-map requires dedicated hardware equipment (Intel RealSense for example), while when working with ARcore you can use basic hardware that everyone has (smartphone for example)
 
-Dealing with daylight - ARcore knows how to work with daylight in an optimal way, while RTAB-map turns black in daylight and does not know how to deal with it 
+- **Dealing with daylight** - ARcore knows how to work with daylight in an optimal way, while RTAB-map turns black in daylight and does not know how to deal with it 
 
-Heat map - RTAB-map knows how to generate a heat map from the video in a deductive manner that can be used for many purposes and analyzes later, while ARcore does not automatically generate a heat map and needs to be generated independently if necessary.
+- **Heat map** - RTAB-map knows how to generate a heat map from the video in a deductive manner that can be used for many purposes and analyzes later, while ARcore does not automatically generate a heat map and needs to be generated independently if necessary.
 
-Requires a budget - As students or some body with a very specific budget restriction, it is better to use ARcore because of its few requirements for hardware components while RTAB-map has more requirements
+- **Requires a budget** - As students or some body with a very specific budget restriction, it is better to use ARcore because of its few requirements for hardware components while RTAB-map has more requirements
 
-Work only on android system - A significant advantage that RTAB-map has over ARcore is that ARcore is only supported in the Android environment.
+- **Work only on android system** - A significant advantage that RTAB-map has over ARcore is that ARcore is only supported in the Android environment.
 
-Based on SLAM - Both technologies are based on the SLAM (Simultaneous localization and mapping) algorithm and therefore both are equal in this regard.
+- **Based on SLAM** - Both technologies are based on the SLAM (Simultaneous localization and mapping) algorithm and therefore both are equal in this regard.
 
-Open source - Both technologies are open source and therefore equal in this regard.
+- **Open source** - Both technologies are open source and therefore equal in this regard.
 
-Close loop - RTAB-map works with the close loop method while ARcore does not, the method helps to make the data obtained more accurate but requires specific angles and shooting range and therefore must be taken into account according to the purpose of the project.
+- **Close loop** - RTAB-map works with the close loop method while ARcore does not, the method helps to make the data obtained more accurate but requires specific angles and shooting range and therefore must be taken into account according to the purpose of the project.
 
-Sensitivity to displacement - In RTAB-map it is necessary to move very, very slowly to get good results of the space scan, while in ARcore you can move in a natural way and the technology knows how to deal with this in an optimal way.
+- **Sensitivity to displacement** - In RTAB-map it is necessary to move very, very slowly to get good results of the space scan, while in ARcore you can move in a natural way and the technology knows how to deal with this in an optimal way.
+---
 
-
-**Experiments :**
+### **Experiments :**
 
 - Identify potential transition : from 3.5 meter in 2 sec.
 
@@ -117,3 +115,4 @@ The failure is due to the light differences between the outside and the inside e
 
 - This research, among other things, was based on the following article: 
 https://github.com/EladVaknin/Final_Project_autonomous_car/blob/main/Articles/electronics-09-02091-v2%20(2).pdf.
+
