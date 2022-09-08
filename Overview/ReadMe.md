@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/74238558/172580322-74437139-6a6c-4bee-8e47-1d3d0cbfbdaa.png)](https://user-images.githubusercontent.com/74238558/172580322-74437139-6a6c-4bee-8e47-1d3d0cbfbdaa.png)
+[![image](https://user-images.githubusercontent.com/74238558/172580322-74437139-6a6c-4bee-8e47-1d3d0cbfbdaa.png)](https://user-images.githubusercontent.com/74238558/172580322-74437139-6a6c-4bee-8e47-1d3d0cbfbdaa.png)
 
 # [](https://github.com/EladVaknin/Final_Project_autonomous_car/tree/main/Overview#overview---final-project)Overview - Final Project
 
@@ -79,27 +79,19 @@ Research result table :
 
 ![WhatsApp Image 2022-09-08 at 11 52 43](https://user-images.githubusercontent.com/74238558/189079499-17f428f9-fd8e-489e-855b-34e298bed4da.jpeg)
 
+Description :
+
 Hardware needed - RTAB-map requires dedicated hardware equipment (Intel RealSense for example), while when working with ARcore you can use basic hardware that everyone has (smartphone for example)
 
 Dealing with daylight - ARcore knows how to work with daylight in an optimal way, while RTAB-map turns black in daylight and does not know how to deal with it 
 
-Heat map - 
+Heat map - RTAB-map knows how to generate a heat map from the video in a deductive manner that can be used for many purposes and analyzes later, while ARcore does not automatically generate a heat map and needs to be generated independently if necessary.
 
-Distance marking - 
+Requires a budget - As students or some body with a very specific budget restriction, it is better to use ARcore because of its few requirements for hardware components while RTAB-map has more requirements
 
-Requires a budget - 
+Work only on android system - A significant advantage that RTAB-map has over ARcore is that ARcore is only supported in the Android environment.
 
-Work only on android system - 
-
-Based on SLAM - 
-
-Work with IOS system - 
-
-Open source - 
-
-Close loop - 
-
-Sensitivity to displacement - 
+Based on SLAM - Both technologies are based on the SLAM (Simultaneous localization and mapping) algorithm and therefore both are equal in this regard.
 
 
 **Experiments :**
@@ -110,4 +102,12 @@ Sensitivity to displacement -
 
 
 - Walking in a closed space : identifying the space, modeling the areas and identifying potential transitions.
-A walk of 70-80 meters.
+A walk of 70-80 meters in 85 sec.
+
+![](https://github.com/EladVaknin/Final_Project_autonomous_car/blob/main/gifs/laibaywalk%20(1).gif)
+
+In second number 30 it can be seen that the algorithm fails to detect the potential transition.
+The failure is due to the light differences between the outside and the inside environments.
+
+- This research, among other things, was based on the following article: 
+https://github.com/EladVaknin/Final_Project_autonomous_car/blob/main/Articles/electronics-09-02091-v2%20(2).pdf.
