@@ -111,7 +111,7 @@ A walk of 70-80 meters in 85 sec.
 
 ![](https://github.com/EladVaknin/Final_Project_autonomous_car/blob/main/gifs/laibaywalk%20(1).gif)
 
-For full video - https://github.com/EladVaknin/Final_Project_autonomous_car/blob/main/gifs/walking%20gif.mp4
+**To the full video** - https://github.com/EladVaknin/Final_Project_autonomous_car/blob/main/gifs/walking%20gif.mp4
 In second number 30 it can be seen that the algorithm fails to detect the potential transition.
 The failure is due to the light differences between the outside and the inside environments.
 
