@@ -115,4 +115,3 @@ The failure is due to the light differences between the outside and the inside e
 
 - This research, among other things, was based on the following article: 
 https://github.com/EladVaknin/Final_Project_autonomous_car/blob/main/Articles/electronics-09-02091-v2%20(2).pdf.
-
