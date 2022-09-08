@@ -77,6 +77,7 @@ Moreover, our app based on ARcore could not provide good trajectory or distance 
 
 Research result table :
 ![WhatsApp Image 2022-09-08 at 11 52 43](https://user-images.githubusercontent.com/74238558/189079499-17f428f9-fd8e-489e-855b-34e298bed4da.jpeg)
+
 Hardware needed - 
 
 Dealing with daylight - 
